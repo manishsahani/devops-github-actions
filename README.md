@@ -234,9 +234,3 @@ kubectl get hpa
 **Manish Sahani**
 
 ---
-
-## ⭐ Notes
-
-This project is designed to simulate a **real-world DevOps workflow** and is ideal for interviews and hands-on practice.
-
----
